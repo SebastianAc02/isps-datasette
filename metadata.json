@@ -1,0 +1,9 @@
+{
+  "title": "ISPs OnePay",
+  "description": "Base de datos de empresas e ISPs para análisis comercial",
+  "databases": {
+    "isps": {
+      "description": "Empresas, contactos, métricas CRM y prospección"
+    }
+  }
+}
